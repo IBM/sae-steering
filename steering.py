@@ -1,4 +1,3 @@
-#Ananya Joshi
 #Sep 18 2025
 #Examples of Steering functions 
 import pandas as pd
